@@ -1,0 +1,8 @@
+npm i react-konva
+npm install use-image
+
+
+*** working with React Konva ***
+
+- you need a canvas to add your stickers to 
+- image here by using the react Hook useImage from a npm called use-image. 
