@@ -1,0 +1,25 @@
+.stickersMenucontainer {
+  flex: 0.2;
+  display: flex;
+  justify-content: center;
+  min-height: 800px;
+}
+
+.stickersMenu {
+  width: 90%;
+  height: 90%;
+  padding-left: 30px;
+  background-color: #1f1e1e;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.sticker {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
